@@ -4,7 +4,7 @@ from .models import *
 
 admin.site.register(Category)
 admin.site.register(Product)
-admin.site.register(Shopping)
+admin.site.register(shopping)
 admin.site.register(Gender)
 admin.site.register(Country)
 admin.site.register(Client)
